@@ -1,3 +1,4 @@
 Hello, GitHub
 Druga linia
 Trzecia linia
+Czwarta linia
